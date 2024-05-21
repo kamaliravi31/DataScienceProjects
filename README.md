@@ -4,31 +4,41 @@ Welcome to my Data Science Projects repository! Here, you'll find a collection o
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Market Segmentation](https://github.com/kamaliravi31/Market-Segmentation)**
+<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/Market-Segmentation-as-a-Marketing-Strategy.jpg"> **[Market Segmentation](https://github.com/kamaliravi31/Market-Segmentation)**
 
 This project focuses on creating a market segmentation model for the finance sector using a Decision Tree classifier. The goal is to classify customers by transforming unsupervised data into supervised data through clustering. By leveraging customer features and details, the model can segment the market and assist in making informed decisions.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+<img align="left" width="250" height="135" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/Customer_communications_June_2019_Cropped_Main.jpg"> **[Customer Analysis and Churn Prediction](https://github.com/kamaliravi31/Customer-Analysis-and-Churn-Prediction)**
+
+This project aims to predict and prevent customer churn. By accurately identifying customers who are likely to churn, the project seeks to provide actionable recommendations to improve customer retention and enhance overall service quality.
+
 
 #
 
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/sales%20analyses.jpg"> **[Sales Analyses](https://github.com/kamaliravi31/Sales-Analyses)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+This project focuses on conducting a comprehensive sales analysis to derive insights, product recommendations, sales report comparisons, and marketing campaigns comparisons. The goal is to provide key metric indicators that can inform marketing strategies and aid in decision-making processes.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/How-to-trade-stocks.jpg"> **[Stock Portfolio Generative AI Chatbot](https://github.com/kamaliravi31/Financial-Generative-AI-Chatbot)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+This project aims to develop a Generative AI Chatbot that assists investors in managing their stock portfolios. The chatbot allows investors to easily monitor, buy, and sell stocks, providing responsive and accurate actions based on user commands. This tool simplifies portfolio management, ensuring investors can make informed decisions efficiently.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/List-of-Marketing-Activities.jpg"> **[Marketing Campaign Analysis and Reporting](https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx)**
 
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
+This project involves the analysis and automated reporting of marketing campaigns to help clients make informed decisions about their marketing strategies and outcomes using Alteryx. The goal is to create an analytical application that allows users to dynamically generate reports based on their specific needs, providing clear insights into marketing efficiency and performance.
+
+#
+
+## Publication
+
+<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/360_F_239118449_AusRom7YQYBO6cJ2G1B2SyKiBQgvY2OY.jpg"> **[Anomaly Detection](https://github.com/kamaliravi31/Market-Segmentation)**
+
+Fusion Based Detection of anomaly using Super Vector Machine Learning Algorithm in International Journal of Scientific Engineering & Research
+
