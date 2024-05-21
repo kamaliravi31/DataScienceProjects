@@ -38,7 +38,7 @@ This project involves the analysis and automated reporting of marketing campaign
 
 ## Publication
 
-<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/360_F_239118449_AusRom7YQYBO6cJ2G1B2SyKiBQgvY2OY.jpg"> **[Anomaly Detection](https://github.com/kamaliravi31/Market-Segmentation)**
+<img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/360_F_239118449_AusRom7YQYBO6cJ2G1B2SyKiBQgvY2OY.jpg"> **[Anomaly Detection](https://www.ijser.in/archives/v7i3/IJSER18742.pdf)**
 
 Fusion Based Detection of anomaly using Super Vector Machine Learning Algorithm in International Journal of Scientific Engineering & Research
 
