@@ -32,8 +32,7 @@ This project aims to develop a Generative AI Chatbot that assists investors in m
 
 <img align="left" width="250" height="150" src="https://github.com/kamaliravi31/DataScienceProjects/blob/main/images/List-of-Marketing-Activities.jpg"> **[Marketing Campaign Analysis and Reporting](https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx)**
 
-This project involves the analysis and automated reporting of marketing campaigns to help clients make informed decisions about their marketing strategies and outcomes using Alteryx. The goal is to create an analytical application that allows users to dynamically generate reports based on their specific needs, providing clear insights into marketing efficiency and performance.
-
+This project involves the analysis and automated reporting of marketing campaigns to help clients make informed decisions about their marketing strategies and outcomes using Alteryx. The goal is to create an analytical application that allows users to dynamically generate reports based on their specific needs, providing clear insights into marketing efficiency.
 #
 
 ## Publication
